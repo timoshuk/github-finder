@@ -1,4 +1,4 @@
-import loader from "../assets/ZZ5H.gif";
+import loader from "../assets/Spinner.gif";
 
 const Loader = () => {
   return (
